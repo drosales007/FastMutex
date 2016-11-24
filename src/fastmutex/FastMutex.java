@@ -861,6 +861,5 @@ public class FastMutex extends javax.swing.JFrame {
     private javax.swing.JRadioButton simRadioManual;
     private javax.swing.JLabel simulationLabel;
     private javax.swing.JPanel srvCtlPanel;
-    private javax.swing.JButton startButton;
-    // End of variables declaration                   
+    private javax.swing.JButton startButton;    
 }
